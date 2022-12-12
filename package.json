@@ -1,5 +1,5 @@
 {
-  "name": "create-app-attachment-github-action",
+  "name": "gha-create-pr-attachment",
   "version": "1.0.0",
   "description": "This action allows you to post your Pull Request as an attachment to the Asana task.",
   "main": "src/index.ts",
