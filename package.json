@@ -1,5 +1,5 @@
 {
-  "name": "create-app-attachment-github-action",
+  "name": "create-pr-attachment-github-action",
   "version": "1.0.0",
   "description": "This action allows you to post your Pull Request as an attachment to the Asana task.",
   "main": "src/index.ts",
