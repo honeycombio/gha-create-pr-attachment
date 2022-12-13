@@ -1,3 +1,5 @@
+# Forked from Asana/create-app-attachment-github-action to work for pull_request_target events
+
 # Connect pull request attachments from GitHub to Asana
 
 Always be in the loop on the status of a pull request with this GitHub Action, which connects an attachment to Asana.
